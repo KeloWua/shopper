@@ -1,3 +1,5 @@
+
+
 # Logs
 logs
 *.log
@@ -141,3 +143,9 @@ dist
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
 .vite/
+
+# Project Plan
+plan.md
+.history/
+# docker folder and all its content
+docker/
